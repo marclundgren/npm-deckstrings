@@ -47,10 +47,9 @@
     "rollup-plugin-commonjs": "^8.3.0",
     "rollup-plugin-jscc": "^0.3.3",
     "rollup-plugin-node-resolve": "^3.0.2",
-    "rollup-plugin-typescript": "^0.8.1",
+    "rollup-plugin-typescript2": "^0.16.1",
     "typescript": "^2.7.1",
     "varint": "^5.0.0"
   },
-  "dependencies": {},
   "sideEffects": false
 }
