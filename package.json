@@ -21,6 +21,7 @@
   },
   "scripts": {
     "prepublishOnly": "rollup -c",
+    "postinstall": "npm run build",
     "build": "rollup -c",
     "dev": "rollup -cw",
     "test": "npm run build && npm run test:mocha; npm run test:karma",
